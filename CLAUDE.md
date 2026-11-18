@@ -20,7 +20,7 @@ Live: https://al0n50.github.io
 | **Localhost & deploy** | `npm run serve` → http://localhost:8080. Merge to `main` → CI → GitHub Pages deploy (`.github/workflows/ci.yml`). | ✅ |
 | **Database** | None needed. | ✅ by design |
 | **API & API keys** | None. Contact is a `mailto:` + copy-email button; no forms, no keys. | ✅ by design |
-| **Checkpoint** | Tagged releases (`vX.Y.Z`); Pages redeploys the tagged commit on rollback. | ✅ |
+| **Checkpoint** | Tagged releases (`vX.Y.Z`); Pages redeploys the tagged commit on rollback. | ⏳ First tagged release waiting on Alonso's OK. Vercel/Pages rollback and `git revert` work today |
 
 ## Structure
 
