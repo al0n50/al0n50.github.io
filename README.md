@@ -39,6 +39,10 @@ accessible buttons/icons, and that every project card links to its own repo.
 
 Pages must be set to **Settings → Pages → Source: GitHub Actions** for the deploy job to publish.
 
+## Working on this repo
+
+Start with [`CLAUDE.md`](CLAUDE.md): content-accuracy rules, how to run and deploy, and rollback steps.
+
 ## License
 
 Code is [MIT](LICENSE) © 2026 Alonso Ochoa. The written content and personal details on the site are not licensed for reuse.
